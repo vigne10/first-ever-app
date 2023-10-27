@@ -1,0 +1,107 @@
+﻿<Window x:Class="WpfBVimmo.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfBVimmo"
+        mc:Ignorable="d"
+        Title="Gestion immobilière" Height="630" Width="1399" WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        Icon="icon1.ico">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Menu DockPanel.Dock="Top" Grid.Row="0">
+            <MenuItem Header="_Programme">
+                <MenuItem Header="_Sauvegarder" Click="MenuItemSave_Click"/>
+                <Separator />
+                <MenuItem Header="_Quitter" Click="MenuItemExit_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Bâtiment">
+                <MenuItem Header="_Nouveau bâtiment" Click="MenuItemNewBuilding_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <Label Content="Maisons" HorizontalContentAlignment="Center"  Grid.Row="1"/>
+
+        <Grid Margin="20 0 20 10" Grid.Row="2">
+
+               
+            <DataGrid Name="DataGridHouse" ItemsSource="{Binding HouseListView, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                  SelectedItem="{Binding SelBuilding, Mode=TwoWay}" MouseDoubleClick="DataGridHouse_MouseDoubleClick" 
+                  AutoGenerateColumns="False" ScrollViewer.CanContentScroll="True" Background="White"
+                  ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" 
+                  CanUserAddRows="False" HorizontalAlignment="Center" SelectionUnit="FullRow" CanUserDeleteRows="False" 
+                  Height="Auto" AlternatingRowBackground="LightCyan" BorderBrush="Gainsboro" VerticalGridLinesBrush="Gainsboro"
+                      HorizontalGridLinesBrush="Gainsboro" HorizontalContentAlignment="Center">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Statut" Binding="{Binding Path = ActualStatus}"/>
+                    <DataGridTextColumn Header="Identifiant" Binding="{Binding Path = BuildingID}"/>
+                    <DataGridTextColumn Header="Pays" Binding="{Binding Path = Country}" MaxWidth="150"/>
+                    <DataGridTextColumn Header="Ville" Binding="{Binding Path = City}" MaxWidth="150"/>
+                    <DataGridTextColumn Header="Adresse" Binding="{Binding Path = Address}" MaxWidth="260"/>
+                    <DataGridTextColumn Header="N°" Binding="{Binding Path = AddressNumber}"/>
+                    <DataGridTextColumn Header="Superficie" Binding="{Binding Path = Area}" MaxWidth="100"/>
+                    <DataGridTextColumn Header="Superficie du terrain" Binding="{Binding Path = LandArea}" MaxWidth="150"/>
+                    <DataGridTextColumn Header="Nombre d'étages" Binding="{Binding Path = NumberOfFloor}" MaxWidth="105"/>
+                    <DataGridTextColumn Header="Pièces" Binding="{Binding Path = NumberOfRooms}" MaxWidth="100"/>
+                    <DataGridTextColumn Header="Chambres" Binding="{Binding Path = NumberOfBedrooms}" MaxWidth="100"/>
+                    <DataGridTextColumn Header="Salles de bain" Binding="{Binding Path = NumberOfBathrooms}" MaxWidth="100"/>
+                    <DataGridTextColumn Header="WC" Binding="{Binding Path = NumberOfWC}" MaxWidth="100"/>
+                    <DataGridCheckBoxColumn Header="Cave" Binding="{Binding Path = Cellar}" />
+                    <DataGridCheckBoxColumn Header="Grenier" Binding="{Binding Path = Attic}" />
+                    <DataGridCheckBoxColumn Header="Jardin privé" Binding="{Binding Path = PrivateGarden}" />
+                    <DataGridCheckBoxColumn Header="Terrasse privée" Binding="{Binding Path = PrivateTerrace}" />
+                    <DataGridCheckBoxColumn Header="Piscine publique" Binding="{Binding Path = SharedPool}" />
+                    <DataGridCheckBoxColumn Header="Piscine privée" Binding="{Binding Path = PrivatePool}" />
+                    <DataGridTextColumn Header="Parking intérieur" Binding="{Binding Path = IndoorParking}" MaxWidth="150"/>
+                    <DataGridTextColumn Header="Parking extérieur" Binding="{Binding Path = OutdoorParking}" MaxWidth="150"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+        <Label Content="Appartemments" HorizontalContentAlignment="Center" Grid.Row="3"/>
+
+        <Grid Grid.Row="4" Margin="20 0 20 15">
+            <DataGrid Name="DataGridApartment" ItemsSource="{Binding ApartListView, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                  SelectedItem="{Binding SelBuilding, Mode=TwoWay}" MouseDoubleClick="DataGridApartment_MouseDoubleClick" 
+                  AutoGenerateColumns="False" ScrollViewer.CanContentScroll="True" Background="White"
+                  ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                  CanUserAddRows="False" HorizontalAlignment="Center" SelectionUnit="FullRow" CanUserDeleteRows="False" 
+                  Height="Auto" AlternatingRowBackground="LightCyan" BorderBrush="Gainsboro" VerticalGridLinesBrush="Gainsboro"
+                      HorizontalGridLinesBrush="Gainsboro">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Statut" Binding="{Binding Path = ActualStatus}" />
+                    <DataGridTextColumn Header="Identifiant" Binding="{Binding Path = BuildingID}" />
+                    <DataGridTextColumn Header="Pays" Binding="{Binding Path = Country}" MaxWidth="150"/>
+                    <DataGridTextColumn Header="Ville" Binding="{Binding Path = City}" MaxWidth="150"/>
+                    <DataGridTextColumn Header="Adresse" Binding="{Binding Path = Address}" MaxWidth="260"/>
+                    <DataGridTextColumn Header="N°" Binding="{Binding Path = AddressNumber}"/>
+                    <DataGridTextColumn Header="Etage" Binding="{Binding Path = Floor}" MaxWidth="100"/>
+                    <DataGridCheckBoxColumn Header="Ascenceur" Binding="{Binding Path = Elevator}" />
+                    <DataGridTextColumn Header="Superficie" Binding="{Binding Path = Area}" MaxWidth="100"/>
+                    <DataGridTextColumn Header="Pièces" Binding="{Binding Path = NumberOfRooms}" MaxWidth="100"/>
+                    <DataGridTextColumn Header="Chambres" Binding="{Binding Path = NumberOfBedrooms}" MaxWidth="100"/>
+                    <DataGridTextColumn Header="Salles de bain" Binding="{Binding Path = NumberOfBathrooms}" MaxWidth="100"/>
+                    <DataGridTextColumn Header="WC" Binding="{Binding Path = NumberOfWC}" MaxWidth="100"/>
+                    <DataGridCheckBoxColumn Header="Cave" Binding="{Binding Path = Cellar}" />
+                    <DataGridCheckBoxColumn Header="Jardin privé" Binding="{Binding Path = PrivateGarden}" />
+                    <DataGridCheckBoxColumn Header="Jardin public" Binding="{Binding Path = SharedGarden}" />
+                    <DataGridCheckBoxColumn Header="Terrasse privée" Binding="{Binding Path = PrivateTerrace}" />
+                    <DataGridCheckBoxColumn Header="Terrasse publique" Binding="{Binding Path = SharedTerrace}" />
+                    <DataGridCheckBoxColumn Header="Piscine publique" Binding="{Binding Path = SharedPool}" />
+                    <DataGridTextColumn Header="Parking intérieur" Binding="{Binding Path = IndoorParking}" MaxWidth="150"/>
+                    <DataGridTextColumn Header="Parking extérieur" Binding="{Binding Path = OutdoorParking}" MaxWidth="150"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+    </Grid>
+</Window>

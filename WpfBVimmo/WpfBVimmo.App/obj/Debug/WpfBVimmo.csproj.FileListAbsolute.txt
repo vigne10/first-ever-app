@@ -1,0 +1,115 @@
+C:\VSProjects\WpfBVimmo\bin\Debug\WpfBVimmo.exe.config
+C:\VSProjects\WpfBVimmo\bin\Debug\WpfBVimmo.exe
+C:\VSProjects\WpfBVimmo\bin\Debug\WpfBVimmo.pdb
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.AssemblyReference.cache
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.SuggestedBindingRedirects.cache
+C:\VSProjects\WpfBVimmo\obj\Debug\Views\MainWindow.g.cs
+C:\VSProjects\WpfBVimmo\obj\Debug\App.g.cs
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo_MarkupCompile.cache
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo_MarkupCompile.lref
+C:\VSProjects\WpfBVimmo\obj\Debug\Views\MainWindow.baml
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo.g.resources
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo.Properties.Resources.resources
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.GenerateResource.cache
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.CoreCompileInputs.cache
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo.exe
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo.pdb
+C:\VSProjects\WpfBVimmo\bin\Debug\Newtonsoft.Json.dll
+C:\VSProjects\WpfBVimmo\bin\Debug\Newtonsoft.Json.xml
+C:\VSProjects\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.CopyComplete
+C:\VSProjects\WpfBVimmo\obj\Debug\Views\BuildingTypeChoiceWindow.g.cs
+C:\VSProjects\WpfBVimmo\obj\Debug\Views\NewBuildingWindow.g.cs
+C:\VSProjects\WpfBVimmo\obj\Debug\Views\BuildingTypeChoiceWindow.baml
+C:\VSProjects\WpfBVimmo\obj\Debug\Views\NewBuildingWindow.baml
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\bin\Debug\WpfBVimmo.exe.config
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\bin\Debug\WpfBVimmo.exe
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\bin\Debug\WpfBVimmo.pdb
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.SuggestedBindingRedirects.cache
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\Views\BuildingTypeChoiceWindow.g.cs
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\Views\MainWindow.g.cs
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\Views\NewBuildingWindow.g.cs
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\App.g.cs
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo_MarkupCompile.cache
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo_MarkupCompile.lref
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\Views\BuildingTypeChoiceWindow.baml
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\Views\MainWindow.baml
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\Views\NewBuildingWindow.baml
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo.g.resources
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo.Properties.Resources.resources
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.GenerateResource.cache
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.CopyComplete
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo.exe
+C:\Users\brand\OneDrive - IRAM Promotion Sociale\Bac 1\Q2\Programmation orientée objet\BVimmo\WpfBVimmo\obj\Debug\WpfBVimmo.pdb
+C:\Users\brand\Desktop\WpfBVimmo\bin\Debug\WpfBVimmo.exe.config
+C:\Users\brand\Desktop\WpfBVimmo\bin\Debug\WpfBVimmo.exe
+C:\Users\brand\Desktop\WpfBVimmo\bin\Debug\WpfBVimmo.pdb
+C:\Users\brand\Desktop\WpfBVimmo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brand\Desktop\WpfBVimmo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.AssemblyReference.cache
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.SuggestedBindingRedirects.cache
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\Views\BuildingTypeChoiceWindow.g.cs
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\Views\MainWindow.g.cs
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\Views\NewBuildingWindow.g.cs
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\App.g.cs
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo_MarkupCompile.cache
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo_MarkupCompile.lref
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\Views\BuildingTypeChoiceWindow.baml
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\Views\MainWindow.baml
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\Views\NewBuildingWindow.baml
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo.g.resources
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo.Properties.Resources.resources
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.GenerateResource.cache
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo.csproj.CopyComplete
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo.exe
+C:\Users\brand\Desktop\WpfBVimmo\obj\Debug\WpfBVimmo.pdb
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\bin\Debug\WpfBVimmo.exe.config
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\bin\Debug\WpfBVimmo.exe
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\bin\Debug\WpfBVimmo.pdb
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.csproj.AssemblyReference.cache
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.csproj.SuggestedBindingRedirects.cache
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\BuildingTypeChoiceWindow.g.cs
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\MainWindow.g.cs
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\NewBuildingWindow.g.cs
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\App.g.cs
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo_MarkupCompile.cache
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo_MarkupCompile.lref
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\BuildingTypeChoiceWindow.baml
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\MainWindow.baml
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\NewBuildingWindow.baml
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.g.resources
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.Properties.Resources.resources
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.csproj.GenerateResource.cache
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.csproj.CopyComplete
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.exe
+C:\Users\brand\Desktop\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.pdb
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\bin\Debug\WpfBVimmo.exe.config
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\bin\Debug\WpfBVimmo.exe
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\bin\Debug\WpfBVimmo.pdb
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.csproj.AssemblyReference.cache
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.csproj.SuggestedBindingRedirects.cache
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\BuildingTypeChoiceWindow.g.cs
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\MainWindow.g.cs
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\NewBuildingWindow.g.cs
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\App.g.cs
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo_MarkupCompile.cache
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo_MarkupCompile.lref
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\BuildingTypeChoiceWindow.baml
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\MainWindow.baml
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\Views\NewBuildingWindow.baml
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.g.resources
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.Properties.Resources.resources
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.csproj.GenerateResource.cache
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.csproj.CopyComplete
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.exe
+C:\Users\brand\Desktop\first-ever-app\WpfBVimmo\WpfBVimmo.App\obj\Debug\WpfBVimmo.pdb

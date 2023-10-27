@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfBVimmo.Models.Building">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="WpfBVimmo.Models.Building.Status" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\Building.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AwyNAEABgAABBACIIECoAAAQsEtQBAIigAmEIWSSABk=</HashCode>
+      <FileName>Models\Building.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WpfBVimmo.Models.Apartment">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGgBAAAAAAoACAACAAAAAAIAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Models\Apartment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfBVimmo.Models.BuildingCollection">
+    <Position X="14.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BuildingCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfBVimmo.Models.House">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAAAAAAAAAAAAAAAAgAAAACACAAgAQACCACAAAAhA=</HashCode>
+      <FileName>Models\House.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfBVimmo.Models.TypeBuildingCombo">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TypeBuildingCombo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
